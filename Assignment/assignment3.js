@@ -2,7 +2,7 @@
 <head>
 <script type="text/javascript">
 function msg(){
-alert("Hello Javatpoint");
+alert("Hello New Javatpoint");
 }
 </script>
 </head>
