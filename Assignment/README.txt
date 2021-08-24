@@ -1,4 +1,4 @@
-This is your assignment of git
+This is your assignment of GIT
 complete it
 <<<<<<< HEAD
 within two days
